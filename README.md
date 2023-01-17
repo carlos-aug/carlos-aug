@@ -1,6 +1,6 @@
 
 # Carlos Augusto 
-## Desenvolvedor Full Stack 
+## Desenvolvedor Web Full Stack 
 
 Carioca com raízes nordestinas. Apaixonado pela família, tecnologia e esportes.
 
