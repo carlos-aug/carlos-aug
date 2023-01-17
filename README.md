@@ -4,8 +4,7 @@
 
 Carioca com raízes nordestinas.
 
-Estou sempre em busca de conhecimento para evoluir na carreira de desenvolvedor. Para isso, estou disposto a aprender novas ferramentas, linguagens e aprofundar meu conhecimento no que já aprendi até aqui.
-
+No momento estou em transição de carreira para a área de Desenvolvimento Web Fullstack. O motivo da mudança? Resolvi trabalhar com o que sempre fui apaixonado além do futebol - a tecnologia. Portanto, estou em busca de evoluir ainda mais o meu conhecimento como desenvolvedor, e, com isso, disposto a aprender novas linguagens e aprofundar com o que já aprendi até aqui.
 
 ## Tecnologias e ferramentas 
 <div align="left">
