@@ -28,5 +28,5 @@ Estou sempre em busca de conhecimento para evoluir na carreira de desenvolvedor.
 
 ## Redes sociais
 
-<a href="https://www.instagram.com/caarlos_aug/"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="https://www.linkedin.com/in/carlos-augusto-santos/"><img height="30em" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/caarlos_aug/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/carlos-augusto-santos/"><img height="25em" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
