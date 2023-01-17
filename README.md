@@ -2,7 +2,7 @@
 # Carlos Augusto 
 ## Desenvolvedor Web Full Stack 
 
-Carioca com raízes nordestinas. Apaixonado pela família, tecnologia e esportes.
+Carioca com raízes nordestinas.
 
 Estou sempre em busca de conhecimento para evoluir na carreira de desenvolvedor. Para isso, estou disposto a aprender novas ferramentas, linguagens e aprofundar meu conhecimento no que já aprendi até aqui.
 
