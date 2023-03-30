@@ -2,11 +2,9 @@
 # Carlos Augusto 
 ## Developer Full Stack 
 
-Carioca com raízes nordestinas.
+Sou carioca com raízes nordestinas. Escolhi trabalhar com o que sempre fui apaixonado, além dos esportes: a tecnologia. Conheci a Trybe e decidi abandonar minha antiga carreira para mergulhar de cabeça em busca desse sonho. Comecei meu desenvolvimento na Trybe conhecendo apenas algumas tags HTML e um mínimo de JavaScript aplicado no curso introdutório.
 
-Escolhi trabalhar com o que sempre fui apaixonado além dos esportes - a tecnologia. Conheci a Trybe. Foi então que decidi abandonar minha antiga carreira e mergulhar de cabeça em busca desse sonho. Iniciei meu desenvolvimento na Trybe conhecendo apenas algumas tags HTML e o mímino de JavaScript aplicado no curso introdutório. 
-
-Hoje, depois de aprender tantas tecnologias e ferramentas de front-end como CSS, React passando pelo ciclo de vida dos componentes, rotas, gerenciamento de estado com redux, eventos, context API, React Hooks dentre outros e aprender também em back-end a trabalhar com Docker utilizando containers, a filtrar e manipular dados em banco de dados utilizando MYSQL, Node e API REST com Express, testes de integração, arquitetura de software com uso de camadas (model, service e controller), TypeScript e por ai vai. Sei que o caminho é longo e ainda tenho muito a aprender, estou empolgado em busca de evoluir ainda mais o meus conhecimentos como desenvolvedor, e, com isso, disposto a me aprofundar em tudo o que já aprendi até aqui e aprender novas linguagens.
+Hoje, depois de aprender tantas tecnologias e ferramentas de front-end, como CSS e React, passando pelo ciclo de vida dos componentes, rotas, gerenciamento de estado com Redux, eventos, Context API, React Hooks e outros, aprendi também no back-end a trabalhar com Docker, utilizando containers, a filtrar e manipular dados em banco de dados usando MySQL, Node e API REST com Express, testes de integração, arquitetura de software com uso de camadas (model, service e controller), TypeScript e assim por diante. Sei que o caminho é longo e ainda tenho muito a aprender, mas estou empolgado em buscar evoluir ainda mais meus conhecimentos como desenvolvedor e, com isso, disposto a me aprofundar em tudo o que já aprendi até aqui e a aprender novas linguagens.
 
 ## Tecnologias e ferramentas 
 <div align="left">
