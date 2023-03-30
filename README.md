@@ -1,6 +1,6 @@
 
 # Carlos Augusto 
-## Developer Full Stack 
+## Developer Web Full Stack 
 
 Sou carioca com raízes nordestinas. Escolhi trabalhar com o que sempre fui apaixonado, além dos esportes: a tecnologia. Conheci a Trybe e decidi abandonar minha antiga carreira para mergulhar de cabeça em busca desse sonho. Comecei meu desenvolvimento na Trybe conhecendo apenas algumas tags HTML e um mínimo de JavaScript aplicado no curso introdutório.
 
